@@ -1,0 +1,8 @@
+public interface Stack
+{
+public int push(int a);
+public int pop();
+public int size();
+public isEmpty();
+public isFull();
+}
